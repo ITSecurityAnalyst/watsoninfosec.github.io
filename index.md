@@ -1,9 +1,9 @@
 ## Welcome to WatsonInfoSec
 
-This is my site!
+New Content Coming Soon!
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
