@@ -2,4 +2,4 @@ title: WatsonInfoSec Cybersecurity Consultant
 description: WatsonInfoSec is a company that will help secure and educate clients on there system.
 show_downloads: false
 google_analytics: true
-theme: jekyll-theme-hacker
+remote_theme: "dracula/gh-pages"
