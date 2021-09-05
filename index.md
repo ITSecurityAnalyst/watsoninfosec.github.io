@@ -1,6 +1,6 @@
 ## Welcome to WatsonInfoSec, LLC
 
-### Is a Cybersecurity Company
+### A Cybersecurity consulting company that focuses on small business & large organizations who need help doing security.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
