@@ -4,6 +4,8 @@
 
 For more details see form & contact me. [Work Request Form](https://share.hsforms.com/1TQfxS68URrSfY8dvPBe7cQc7ppg)
 
+Schedule a Zoom Meeting: [Meeting Link](https://meetings.hubspot.com/watson-infosec)
+
 ```markdown
 Skills of Interest:
 
@@ -11,7 +13,6 @@ Skills of Interest:
 # Security Consulting
 # General Security Needs
 
-- Bulleted
 - List
 
 1. Numbered
