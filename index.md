@@ -17,7 +17,7 @@ Skills of Interest:
 
 Service List:
  
-InfoSec Business Consulting Plan $250 per contract: [Click Link & Click Magnifying Glass To Read](https://mega.nz/file/U3JBCaiQ#GmbIefkHmb9kMEW8HqNpKLrlFOZMv5Ib2GYyf2tNKOM)
+InfoSec Business Consulting Plan $250 per contract: [Click Link & Click Magnifying Glass To Read](https://mega.nz/file/xr4zTKgZ#Xt9IhiDAumbmDsyZVrsiyJci0pvvj-46iANHukYMq3E)
 
 Public Speaking Event: $120 Per event
 
