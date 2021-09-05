@@ -13,10 +13,17 @@ Skills of Interest:
 # Security Consulting
 # General Security Needs
 
+```
+
 Service List:
  
 InfoSec Business Consulting Plan $250 per contract
+
+[InfoSec Business Consulting Plan](https://github.com/watsoninfosec/watsoninfosec.github.io/blob/fe70bb730032f219fbb381a9a6ddfa1a99975c3b/InfoSec%20Business%20Consulting.docx?raw=true)
+
+
+
 Public Speaking Event: $120 Per event
 General Security Work: $20 Per Hour
 
-```
+
