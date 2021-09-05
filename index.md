@@ -4,7 +4,7 @@
 
 For more details see form & contact me. [Work Request Form](https://share.hsforms.com/1TQfxS68URrSfY8dvPBe7cQc7ppg)
 
-Schedule a Zoom Meeting: [Meeting Link](https://meetings.hubspot.com/watson-infosec)
+Schedule a Zoom Meeting: [Cybersecurity Consultation](https://meetings.hubspot.com/watson-infosec)
 
 ```markdown
 Skills of Interest:
@@ -13,12 +13,10 @@ Skills of Interest:
 # Security Consulting
 # General Security Needs
 
-- List
+Service List:
+ 
+Cybersecurity Consultation $80 per Hour
+Public Speaking Event: $120 Per event
+General Security Work: $20 Per Hour
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
