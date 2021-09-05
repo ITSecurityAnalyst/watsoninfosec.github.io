@@ -4,7 +4,7 @@
 
 For more details see form & contact me. [Work Request Form](https://share.hsforms.com/1TQfxS68URrSfY8dvPBe7cQc7ppg)
 
-Schedule a Zoom Meeting: [Cybersecurity Consultation](https://meetings.hubspot.com/watson-infosec)
+Schedule a Zoom Meeting: [1 Hr Zoom Meeting](https://meetings.hubspot.com/watson-infosec)
 
 ```markdown
 Skills of Interest:
