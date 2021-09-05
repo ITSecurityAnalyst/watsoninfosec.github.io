@@ -15,7 +15,7 @@ Skills of Interest:
 
 Service List:
  
-Cybersecurity Consultation $250 per contract
+InfoSec Business Consulting Plan $250 per contract
 Public Speaking Event: $120 Per event
 General Security Work: $20 Per Hour
 
